@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{29DD2413-26DE-4781-AA8B-7D91CC388A93}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>practice___12._09._22</RootNamespace>
-    <AssemblyName>practice - 12.09.22</AssemblyName>
+    <RootNamespace>practiceSeptemberOne</RootNamespace>
+    <AssemblyName>practiceSeptemberOne</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
