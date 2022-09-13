@@ -22,6 +22,8 @@ namespace practiceSeptemberOne
             a = b;
             b = temp;
 
+            
+
             Console.WriteLine($"a = {a}, b = {b}");
 
         }
